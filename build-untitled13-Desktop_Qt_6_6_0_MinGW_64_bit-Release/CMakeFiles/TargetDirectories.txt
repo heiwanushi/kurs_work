@@ -1,0 +1,9 @@
+C:/projects/build-untitled13-Desktop_Qt_6_6_0_MinGW_64_bit-Release/CMakeFiles/untitled13.dir
+C:/projects/build-untitled13-Desktop_Qt_6_6_0_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/projects/build-untitled13-Desktop_Qt_6_6_0_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/projects/build-untitled13-Desktop_Qt_6_6_0_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+C:/projects/build-untitled13-Desktop_Qt_6_6_0_MinGW_64_bit-Release/CMakeFiles/install.dir
+C:/projects/build-untitled13-Desktop_Qt_6_6_0_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+C:/projects/build-untitled13-Desktop_Qt_6_6_0_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+C:/projects/build-untitled13-Desktop_Qt_6_6_0_MinGW_64_bit-Release/CMakeFiles/untitled13_autogen_timestamp_deps.dir
+C:/projects/build-untitled13-Desktop_Qt_6_6_0_MinGW_64_bit-Release/CMakeFiles/untitled13_autogen.dir
